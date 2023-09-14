@@ -25,7 +25,7 @@ class BankAccount:
 # Test the BankAccount class
 if __name__ == "__main__":
     # Create an instance of BankAccount
-    my_account = BankAccount("123456789", "Dhineshkumar A ", 1000.0)
+    my_account = BankAccount("123456789", "Dhineshkumar .A ", 1000.0)
 
     # Display initial balance
     my_account.display_balance()

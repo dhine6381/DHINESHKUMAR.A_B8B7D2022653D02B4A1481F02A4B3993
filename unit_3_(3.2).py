@@ -10,10 +10,10 @@ class Student:
         self.cgpa = cgpa
         
 students = [
-    Student("John", "1001", 3.5),
-    Student("Jane", "1002", 3.2),
-    Student("David", "1003", 3.8),
-    Student("Sarah", "1004", 3.6)
+    Student("Dhineshkumar A", "2K22CS044", 3.5),
+    Student("Gopinath N", "2K22CS055", 3.2),
+    Student("Dhanacheziyan S", "2K22CS039", 3.8),
+    Student("Harikaran P", "2K22CS017", 3.6)
 ]
 
 sorted_students = sort_students(students)

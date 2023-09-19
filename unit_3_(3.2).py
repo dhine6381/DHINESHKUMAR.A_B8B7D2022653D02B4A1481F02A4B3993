@@ -12,7 +12,7 @@ class Student:
 students = [
     Student("Dhineshkumar A", "2K22CS044", 3.5),
     Student("Gopinath N", "2K22CS055", 3.2),
-    Student("Dhanacheziyan S", "2K22CS039", 3.8),
+    Student("Dhananchezhiyan S", "2K22CS039", 3.8),
     Student("Harikaran P", "2K22CS017", 3.6)
 ]
 
